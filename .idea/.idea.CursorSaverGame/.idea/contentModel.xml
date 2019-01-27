@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\ZeT-PC\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\ZeT-PC\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_CursorSaverGame.1252749774.00" t="ExcludeRecursive" />
+    <e p="I:\Unity\CursorSaverGame" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Bootstrap.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="LevelScene" t="Include">
+            <e p="CubeController.cs" t="Include" />
+            <e p="EnemyMovement.cs" t="Include" />
+            <e p="PlayerMovment.cs" t="Include" />
+            <e p="StaticLevelData.cs" t="Include" />
+            <e p="UIInputController.cs" t="Include" />
+          </e>
+          <e p="MenuScene" t="Include">
+            <e p="ButtonMenuController.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="CursorSaverGame.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
